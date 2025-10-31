@@ -15,6 +15,7 @@ https://github.com/LauraSalles06/Info.Log/blob/main/exel.info.zip
 
 
 ## Atividade 4 = Tabela NCM inserida no Power bi
+https://github.com/LauraSalles06/Info.Log/blob/main/PWBNCM.pbix
 <img width="1428" height="789" alt="image" src="https://github.com/user-attachments/assets/9604b156-bc44-424e-86a6-7af8f96c02e8" />
 
 ## Atividade 5 - Dados de Estados no Power bi
