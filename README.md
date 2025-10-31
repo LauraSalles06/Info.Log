@@ -6,6 +6,7 @@ https://www.canva.com/design/DAGwLqVpvVo/DRqT39tSBrU122wmuXOZGw/edit
 
 
 ## Atividade 2 - análise exploratória de dados abertos contendo informações sobre bares e restaurantes
+https://github.com/LauraSalles06/Info.Log/blob/main/Analise%20de%20dados.exel.zip
 <img width="1887" height="766" alt="image" src="https://github.com/user-attachments/assets/e4222459-5207-4b4f-964f-e6c886d4b6ba" />
 
 ## Atividade 3 - Analise de dados NCM
@@ -17,6 +18,4 @@ https://github.com/LauraSalles06/Info.Log/blob/main/exel.info.zip
 <img width="1428" height="789" alt="image" src="https://github.com/user-attachments/assets/9604b156-bc44-424e-86a6-7af8f96c02e8" />
 
 ## Atividade 5 - Dados de Estados no Power bi
-
-blob:https://web.whatsapp.com/64c59c52-9b90-45a4-ad50-4ba5b9c27d5e
 
