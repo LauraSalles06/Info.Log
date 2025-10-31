@@ -19,3 +19,4 @@ https://github.com/LauraSalles06/Info.Log/blob/main/exel.info.zip
 
 ## Atividade 5 - Dados de Estados no Power bi
 https://github.com/LauraSalles06/Info.Log/blob/main/power%20bi%20uf%20ESTADOS.pbix
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/0f6b946c-fb1a-4c35-ae08-c64e6efab819" />
