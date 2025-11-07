@@ -21,3 +21,7 @@ https://github.com/LauraSalles06/Info.Log/blob/main/PWBNCM.pbix
 ## Atividade 5 - Dados de Estados no Power bi
 https://github.com/LauraSalles06/Info.Log/blob/main/power%20bi%20uf%20ESTADOS.pbix
 <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/0f6b946c-fb1a-4c35-ae08-c64e6efab819" />
+
+## Atividade 06 = Gráfico criado a partir da formula S0+VT
+.
+<img width="1749" height="787" alt="image" src="https://github.com/user-attachments/assets/0d4d86e5-53b9-4ef6-9894-ffc3c1027087" />
