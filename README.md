@@ -29,5 +29,6 @@ https://github.com/LauraSalles06/Info.Log/blob/main/Regress%C3%A3o_Linear_do_Sor
 
 ## Atividade 07 - Dados tratados no colab e exel para gráficos de disperção e modelos de regressão 
 https://github.com/LauraSalles06/Info.Log/blob/main/SalaryS0VT.csv
+https://github.com/LauraSalles06/Info.Log/blob/main/SalaryColab.ipynb
 <img width="1047" height="757" alt="image" src="https://github.com/user-attachments/assets/81132b05-d008-4942-a721-405d985d7450" />
 <img width="1249" height="754" alt="image" src="https://github.com/user-attachments/assets/376bc88f-6c33-4f84-afac-964316e586bf" />
