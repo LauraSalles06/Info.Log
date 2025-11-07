@@ -26,3 +26,7 @@ https://github.com/LauraSalles06/Info.Log/blob/main/power%20bi%20uf%20ESTADOS.pb
 https://github.com/LauraSalles06/Info.Log/blob/main/IceCreamLaura.xlsx
 https://github.com/LauraSalles06/Info.Log/blob/main/Regress%C3%A3o_Linear_do_Sorvete.ipynb
 <img width="1749" height="787" alt="image" src="https://github.com/user-attachments/assets/0d4d86e5-53b9-4ef6-9894-ffc3c1027087" />
+
+## Atividade 07 - Dados tratados no colab e exel para gráficos de disperção e modelos de regressão 
+<img width="1047" height="757" alt="image" src="https://github.com/user-attachments/assets/81132b05-d008-4942-a721-405d985d7450" />
+<img width="1249" height="754" alt="image" src="https://github.com/user-attachments/assets/376bc88f-6c33-4f84-afac-964316e586bf" />
