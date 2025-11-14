@@ -1,6 +1,6 @@
 # Info.Log
 Trabalhos e Atividades - Informática
-## atividade 1 - canvas
+## atividade 1 - canvas O que temos em comum?
 https://www.canva.com/design/DAGwLqVpvVo/DRqT39tSBrU122wmuXOZGw/edit
 <img width="1052" height="582" alt="image" src="https://github.com/user-attachments/assets/cd77a28f-754e-4073-8da4-26ea6293c9aa" />
 
@@ -9,7 +9,7 @@ https://www.canva.com/design/DAGwLqVpvVo/DRqT39tSBrU122wmuXOZGw/edit
 https://github.com/LauraSalles06/Info.Log/blob/main/Analise%20de%20dados.exel.zip
 <img width="1887" height="766" alt="image" src="https://github.com/user-attachments/assets/e4222459-5207-4b4f-964f-e6c886d4b6ba" />
 
-## Atividade 3 - Analise de dados NCM
+## Atividade 3 - Analise de dados NCM 
 https://github.com/LauraSalles06/Info.Log/blob/main/exel.info.zip
 <img width="925" height="455" alt="image" src="https://github.com/user-attachments/assets/b6325ba4-2554-4759-a10e-fa1791315dbc" />
 
