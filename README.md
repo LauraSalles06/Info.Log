@@ -6,19 +6,23 @@ https://www.canva.com/design/DAGwLqVpvVo/DRqT39tSBrU122wmuXOZGw/edit
 
 
 ## Atividade 2 - análise exploratória de dados abertos contendo informações sobre bares e restaurantes
+-Limpeza de dados repetidos + Procv + Cont.se
 https://github.com/LauraSalles06/Info.Log/blob/main/Analise%20de%20dados.exel.zip
 <img width="1887" height="766" alt="image" src="https://github.com/user-attachments/assets/e4222459-5207-4b4f-964f-e6c886d4b6ba" />
 
 ## Atividade 3 - Analise de dados NCM 
+- Procv + Criação de tabela
 https://github.com/LauraSalles06/Info.Log/blob/main/exel.info.zip
 <img width="925" height="455" alt="image" src="https://github.com/user-attachments/assets/b6325ba4-2554-4759-a10e-fa1791315dbc" />
 
 
 ## Atividade 4 = Tabela NCM inserida no Power bi
+-Graficos de Barra + Mapas + Link de bandeiras
 https://github.com/LauraSalles06/Info.Log/blob/main/PWBNCM.pbix
 <img width="1428" height="789" alt="image" src="https://github.com/user-attachments/assets/9604b156-bc44-424e-86a6-7af8f96c02e8" />
 
 ## Atividade 5 - Dados de Estados no Power bi
+-Dados do comexstat para criação de graficos de barra e mapa
 https://github.com/LauraSalles06/Info.Log/blob/main/power%20bi%20uf%20ESTADOS.pbix
 <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/0f6b946c-fb1a-4c35-ae08-c64e6efab819" />
 
